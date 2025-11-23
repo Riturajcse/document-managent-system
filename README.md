@@ -67,7 +67,7 @@ The application supports **three different storage mechanisms**:
 ### Project Structure
 
 ```
-EkLine/
+document-managent-system/
 ├── backend/                    # Backend application
 │   ├── src/
 │   │   ├── config/
@@ -124,8 +124,8 @@ EkLine/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ekline.git
-cd ekline
+git clone https://github.com/yourusername/document-managent-system.git
+cd document-managent-system
 ```
 
 #### 2. Configure Environment Variables
